@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello there, I'm Ashish Sherashia 🌏
+### I'm a Cloud Architect | Solutions Architect | Internet Expert
 
-<!--
-**sherashia/sherashia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About
+- 🎓 Majored in Computer Science (Class of 2014)  
+- 👀 I'm currently focusing on **AI-ML** and **Cloud native** solutions
+- ⚙️ I use daily: `GCP`, `AWS`, `Azure`, `My brain`.
+- 🔭 I'm currently learning **Laravel & VueJS**
+- 💬 Ask me about: everything especially about **tech, movies, series**
+- **I** ❤️ **to think, learn, code, and customize everything**
+- 🔥 On Progress Project: E-learning build with Laravel 7 
 
-Here are some ideas to get you started:
+### 📫 Reach me
+[![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Asherashia.ashish%40gmail.com)](mailto:sherashia.ashish@gmail.com)
+[![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsherashia)](https://linkedin.com/in/sherashia)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sherashia?style=social)](https://twitter.com/intent/follow?screen_name=sherashia)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Ffacebook.com%2Fashishsherashia)](https://facebook.com/ashishsherashia)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fas0034)](https://instagram.com/as0034)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fsherashia)](https://t.me/sherashia)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨Visitors
+[![ViewCount](https://views.whatilearened.today/views/github/sherashia/sherashia.svg?cache=remove)](#)
+---
+⭐️ From [sherashia](https://github.com/sherashia)
