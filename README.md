@@ -5,10 +5,8 @@
 - 🎓 Majored in Computer Science (Class of 2014)  
 - 👀 I'm currently focusing on **AI-ML** and **Cloud native** solutions
 - ⚙️ I use daily: `GCP`, `AWS`, `Azure`, `My brain`.
-- 🔭 I'm currently learning **Laravel & VueJS**
 - 💬 Ask me about: everything especially about **tech, movies, series**
-- **I** ❤️ **to think, learn, code, and customize everything**
-- 🔥 On Progress Project: E-learning build with Laravel 7 
+- **I** ❤️ **to think, learn, code, and customize everything** 
 
 ### 📫 Reach me
 [![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Asherashia.ashish%40gmail.com)](mailto:sherashia.ashish@gmail.com)
